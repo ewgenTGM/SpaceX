@@ -242,9 +242,9 @@ a {
     }
 }
 
-@media (max-width: 576px) {
+@media (max-width: 620px) {
     .rocket {
-        position: static;
+        display: none;
     }
     .footer-nav .list{
         flex-wrap: wrap;
